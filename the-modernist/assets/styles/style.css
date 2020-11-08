@@ -1,0 +1,21 @@
+
+.latest-work{
+  padding: 15px;
+}
+
+.latest-work-text{
+    color: #fff;
+    font-size: 28px;
+    text-transform: uppercase;
+    font-family: times;
+    background-color: #353535;
+    padding: 0 15px;
+    border-radius: 12px;
+}
+
+.seperator{
+  height:3px;
+  border-width:0;
+  color:gray;
+  background-color:#353535;
+}
